@@ -1,0 +1,31 @@
+{
+    "name": "statvfs",
+    "version": "0.0.1",
+    "description": "statvfs linux/windows.",
+    "main": "index.js",
+    "typings": "index.d.ts",
+    "gypfile": true,
+    "dependencies": {
+      "nan": "^2.14.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dufourgilles/node-statvfs.git"
+    },
+    "keywords": [
+      "disk",
+      "usage",
+      "df",
+      "hdd",
+      "ssd",
+      "statvfs",
+      "free",
+      "space"
+    ],
+    "author": "dufour.gilles@gmail.com",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/dufourgilles/node-statvfs/issues"
+    },
+    "homepage": "https://github.com/dufourgilles/node-statvfs"
+  }
