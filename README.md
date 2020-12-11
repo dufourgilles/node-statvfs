@@ -27,7 +27,7 @@ Examples
 --------
 
 ``` js
-const {statvfs, statvfsAsync, statvfsSync } = require('statvfs');
+const {statvfs, statvfsAsync, statvfsSync } = require('node-statvfs');
 
 // Callbacks
 statvfs("/", (err, info) => {

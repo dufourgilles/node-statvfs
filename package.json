@@ -1,5 +1,5 @@
 {
-    "name": "statvfs",
+    "name": "node-statvfs",
     "version": "0.0.1",
     "description": "statvfs linux/windows.",
     "main": "index.js",
